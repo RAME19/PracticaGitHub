@@ -1,0 +1,53 @@
+PROPFULL
+Comited
+Modified
+Staged
+
+git add nombrearchivo.cs o .php o .ss
+git status
+git log
+
+git config --list
+identificarte
+user.name
+user.email
+
+git config --global user.name"lol"
+git config --global user.email kjkhd@
+
+cd git (git es el nombre de carpeta)
+
+git init
+touch read.md
+git add read.md
+git add . (a;adir todos los archivos)
+git add nombrearchvio.cs o .js(a;adir archivo especifico)
+git add /css
+
+git commit -m (message) "primer commit"
+
+.ignore (todo lo que este dentro, no lo tomara en cuenta)
+ 
+git commit -a -m "" 
+
+git diff
+
+git checkout (restaurar) /git/Form1.cs
+
+rm (remove)
+del (delete)st
+
+git mv(move) lol.txt ang
+
+--amend (enmendar) agrega un archivo faltante de una version y no hacer otra version
+
+
+Dia 2
+
+mkdir folder
+cd folder
+git init
+git status
+touch file.txt / a;adirlo
+git add . / git add nombre.txt / git add /folder
+git commit -a -m "mensaje"
